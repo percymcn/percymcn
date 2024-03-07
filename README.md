@@ -1,4 +1,4 @@
-<h1>Hi, I'm Percyval ! <br/><a href="https://github.com/percymcn/">Programmer</a>, <a href="https://www.linkedin.com/in/percyval-mcneil-77575926a/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Percyval ! <br/><a href="https://github.com/percymcn/">Security Analyst</a>, <a href="https://www.linkedin.com/in/percyval-mcneil-77575926a/">Cybersecurity Professional</a>,
 
 <h2>👨‍💻 Cyber Security  Projects:</h2>
 
